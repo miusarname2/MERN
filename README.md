@@ -62,3 +62,4 @@ The " Uncertainty " of not knowing / knowing which and how many users exist.
 誰が何人のユーザーが存在するかを知らない/知らないという「不確実性」。
 
 
+
